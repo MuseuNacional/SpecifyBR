@@ -33,9 +33,6 @@ flowchart TB
         c22(Ornitologia)
         c24(Mamíferos)
       end
-      subgraph Botânica
-        c25(Herbário)
-      end
   end
 
 ```
