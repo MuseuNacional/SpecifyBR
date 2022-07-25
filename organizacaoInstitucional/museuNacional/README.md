@@ -1,4 +1,6 @@
 # Modelo de Organização do Museu Nacional-UFRJ
+|Departamentos|Coleções|Sub-coleções|
+|---|---|---|
 
 
 ```mermaid
