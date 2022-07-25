@@ -18,8 +18,8 @@ flowchart TB
       end
       subgraph Invertebrados
         c11(Aracnologia)
-        c12(Carcinologia)
-        c13(Cnidaria)
+        c12(Celenterologia)
+        c13(Crustacea)
         c14(Echinoderma)
         c15(Malacologia)
         c16(Polychaeta)
