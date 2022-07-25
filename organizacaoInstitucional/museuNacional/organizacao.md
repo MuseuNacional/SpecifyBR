@@ -1,5 +1,6 @@
 
 # Entomologia
+**IPT:** https://ipt.sibbr.gov.br/mnrj/resource?r=entomologica_1
 ## Blattodea
 **Curador:** Pedro Dias
 ## Coleoptera
@@ -34,6 +35,7 @@
 ## Porifera
 
 ## Aracnologia
+**Curador:** Adriano Brilhante Kury
 
 ### Aranea
 ### Aranea
