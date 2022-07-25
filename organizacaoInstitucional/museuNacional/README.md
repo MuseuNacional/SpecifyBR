@@ -1,7 +1,4 @@
 # Modelo de Organização do Museu Nacional-UFRJ
-|Departamentos|Coleções|Sub-coleções|
-|---|---|---|
-
 
 ```mermaid
 flowchart TB
@@ -12,7 +9,7 @@ flowchart TB
         subgraph Entomologica
         direction LR
           c2(Blattodea)
-          click c2 href "http://google.com"
+          click c2 href "https://github.com/edalcin/SpecifyBR/blob/main/organizacaoInstitucional/museuNacional/organizacao.md#blattodea"
           c3(Coleoptera)
           c4(Collembolla)
           c5(Diplura)
