@@ -4,35 +4,38 @@
 ```mermaid
 flowchart TB
   subgraph Departamentos
-      direction RL    
+      direction LR    
       subgraph Entomologia
-        c1(Apterygotha)
-        c2(Blattaria)
-        c3(Coleoptera)
-        c4(Diptera)
-        c6(Hemiptera)
-        c7(Hymenoptera)
-        c8(Insetos Aquáticos)
-        c9(Lepidoptera)
-        c10(Outras ordens)
+        subgraph Entomologica
+          c2(Blattodea)
+          c3(Coleoptera)
+          c4(Collembolla)
+          c5(Diplura)
+          c6(Diptera)
+          c7(Ephemeroptera)
+          c8(Hemiptera)
+          c9(Hymenoptera)
+          c10(Lepidoptera)
+          c11(Mantodea)
+          c12(Megaloptera)
+          c13(Neuroptera)
+          c14(Odonata)
+          c15(Orthoptera)
+          c16(Phasmatodea)
+          c17(Plecoptera)
+          c18(Protura)
+          c19(Psocoptera)
+          c20(Strepsiptera)
+          c21(Trichoptera)
+        end
       end
       subgraph Invertebrados
-        c11(Aracnologia)
-        c12(Celenterologia)
-        c13(Crustacea)
-        c14(Echinoderma)
-        c15(Malacologia)
-        c16(Polychaeta)
-        c17(Porífera)
-        c18(Outros invertebrados)
-      end
-      subgraph Vertebrados
-        c19(Ictiologia)
-        c20(Anfíbios)
-        c21(Répteis)
-        c22(Ornitologia)
-        c24(Mamíferos)
+        subgraph Aracnologia
+          c23(Aranea)
+          c24(Aranea)
+          c25(Opiliones)
+          c26(Ordens Menores)
+        end
       end
   end
-
 ```
