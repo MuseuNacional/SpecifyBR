@@ -1,8 +1,11 @@
 
 # Entomologia
 ## Blattodea
+**Curador:** Pedro Dias
 ## Coleoptera
+**Curador:** Marcela Monne
 ## Collembolla
+**Curador:** Maria Cleide Mendonça
 ## Diplura
 ## Diptera
 ## Ephemeroptera
