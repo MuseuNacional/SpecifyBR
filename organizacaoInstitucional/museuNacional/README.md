@@ -10,6 +10,7 @@ flowchart TB
         subgraph Entomologica
         direction LR
           c2(Blattodea)
+          click c2 href "http://google.com"
           c3(Coleoptera)
           c4(Collembolla)
           c5(Diplura)
