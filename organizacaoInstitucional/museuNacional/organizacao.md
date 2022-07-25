@@ -9,6 +9,7 @@
 **Curador:** Maria Cleide Mendonça
 ## Diplura
 ## Diptera
+**Curador:** Marcia Couri
 ## Ephemeroptera
 ## Hemiptera
 ## Hymenoptera
