@@ -4,11 +4,11 @@
 ```mermaid
 flowchart TB
   subgraph Departamentos
-      direction LR    
+      direction TB    
       subgraph Entomologia
-      direction TB
+      direction LR
         subgraph Entomologica
-        direction TB
+        direction LR
           c2(Blattodea)
           c3(Coleoptera)
           c4(Collembolla)
@@ -32,7 +32,7 @@ flowchart TB
         end
       end
       subgraph Invertebrados
-      direction TB
+      direction LR
         c34(Celenterologia)
         c35(Crustacea)
         c36(Echinoderma)
@@ -40,14 +40,14 @@ flowchart TB
         c38(Polychaeta)
         c39(Porifera)
         subgraph Aracnologia
-        direction TB   
+        direction LR   
           c23(Aranea)
           c24(Aranea)
           c25(Opiliones)
           c26(Ordens Menores)
         end
         subgraph Invertebrados outros
-        direction TB   
+        direction LR   
           c27(Ascidiacea)
           c28(Brachiopoda)
           c29(Bryozoa)
@@ -57,5 +57,13 @@ flowchart TB
           c33(Tardigrada)
         end
       end
-  end
+      subgraph Vertebrados
+      direction LR   
+        c40(Anfíbios)
+        c41(Ictiologia)
+        c42(Mamíferos)
+        c43(Ornitologia)
+        c44(Répteis)
+      end
+end
 ```
