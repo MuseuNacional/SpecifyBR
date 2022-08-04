@@ -9,7 +9,6 @@ flowchart TB
         subgraph Entomologica
         direction LR
           c2(Blattodea)
-          click c2 href "https://github.com/edalcin/SpecifyBR/blob/main/organizacaoInstitucional/museuNacional/organizacao.md#blattodea"
           c3(Coleoptera)
           c4(Collembolla)
           c5(Diplura)
@@ -35,6 +34,7 @@ flowchart TB
       direction LR
         c34(Celenterologia)
         c35(Crustacea)
+        click c35 href "https://github.com/edalcin/SpecifyBR/blob/main/organizacaoInstitucional/museuNacional/crustaceae.md"
         c36(Echinoderma)
         c37(Malacologia)    
         c38(Polychaeta)
