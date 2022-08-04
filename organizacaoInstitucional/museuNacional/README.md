@@ -36,9 +36,13 @@ flowchart TB
         c35(Crustacea)
         click c35 href "https://github.com/edalcin/SpecifyBR/blob/main/organizacaoInstitucional/museuNacional/crustaceae.md"
         c36(Echinoderma)
-        c37(Malacologia)    
+        click c36 href "https://github.com/edalcin/SpecifyBR/blob/main/organizacaoInstitucional/museuNacional/echinoderma.md"
+        c37(Mollusca)
+        click c37 href "https://github.com/edalcin/SpecifyBR/blob/main/organizacaoInstitucional/museuNacional/mollusca.md"
         c38(Polychaeta)
+        click c38 href "https://github.com/edalcin/SpecifyBR/blob/main/organizacaoInstitucional/museuNacional/polychaeta.md"
         c39(Porifera)
+        click c39 href "https://github.com/edalcin/SpecifyBR/blob/main/organizacaoInstitucional/museuNacional/porifera.md"
         subgraph Aracnologia
         direction LR   
           c23(Aranea)
