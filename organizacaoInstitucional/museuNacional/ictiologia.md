@@ -2,7 +2,7 @@
 
 **Curadores:** Marcelo Ribeiro de Britto, Paulo Andreas Buckup, Cristiano Moreira
 
-**Gerentes:**
+**Gerentes:** Mariane Targino
 
 ---
 
