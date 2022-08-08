@@ -64,10 +64,14 @@ flowchart TB
       subgraph Vertebrados
       direction LR   
         c40(Anfíbios)
+        click c40 href "https://github.com/edalcin/SpecifyBR/blob/main/organizacaoInstitucional/museuNacional/anfibios.md"
         c41(Ictiologia)
+        click c41 href "https://github.com/edalcin/SpecifyBR/blob/main/organizacaoInstitucional/museuNacional/ictiologia.md"
         c42(Mamíferos)
         c43(Ornitologia)
+        click c43 href "https://github.com/edalcin/SpecifyBR/blob/main/organizacaoInstitucional/museuNacional/ornitologia.md"
         c44(Répteis)
+        click c44 href "https://github.com/edalcin/SpecifyBR/blob/main/organizacaoInstitucional/museuNacional/repteis.md"
       end
 end
 ```
