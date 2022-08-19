@@ -20,12 +20,12 @@ Para o armanezamento de anexos com um servidor [_Specify Attachment Server_](htt
 
 A título de exemplo, para uma __colecção de herbário__, onde são anexadas apenas as imagens dos espécimes digitalizados, o armazenamento total por espécime é a soma das seguintes parcelas:
 
-| Tipo de ficheiro | Formato | Resolução | Dimensão | Espaço |
-|------|-----|----|----|----|----|
-| original | tiff | 400 dpi | tiff | 120 MB |
-| cópia web* | jpeg | 400 dpi | jpeg | 18 MB |
-| thumbnail | jpeg | | | 16 KB |
-|||| TOTAL| 138 MB|
+| Tipo de ficheiro | Formato | Resolução (dpi) | Dimensão  (px)  | Tamanho |
+|------------------|---------|-----------------|-----------------|---------|
+| original         | tiff    | 400             | 5574x7370       |  120 MB |
+| cópia web*       | jpeg    | 400             | 5574x7370       |   18 MB |
+| thumbnail        | png     |                 | 93x123          |   16 KB |
+|                  |         |                 |           TOTAL |  138 MB |
 
 *é necessária a criação de uma versão jpeg que facilite a publicação através da web.
 
