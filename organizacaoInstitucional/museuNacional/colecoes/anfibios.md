@@ -16,6 +16,8 @@ As coleções científicas do Museu Nacional iniciaram-se no século XIX, reunin
 
 ## Abrangência Tempo
 
+## Equipamentos disponíveis
+
 ## Contatos
 
 * **Autor dos Metadados:**
