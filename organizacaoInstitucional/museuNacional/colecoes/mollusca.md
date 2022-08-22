@@ -22,6 +22,8 @@ Muitos desses lotes foram destruídos no incêndio do Museu Nacional; o trabalho
 
 ## Abrangência Tempo:
 
+## Imagens
+
 ## Contatos:
 
 * **Autor dos Metadados:**
