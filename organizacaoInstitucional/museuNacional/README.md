@@ -34,15 +34,15 @@ flowchart TB
       direction LR
         c34(Celenterologia)
         c35(Crustacea)
-        click c35 href "https://github.com/edalcin/SpecifyBR/blob/main/organizacaoInstitucional/museuNacional/crustaceae.md"
+        click c35 href "https://github.com/edalcin/SpecifyBR/blob/main/organizacaoInstitucional/museuNacional/colecoes/crustaceae.md"
         c36(Echinoderma)
-        click c36 href "https://github.com/edalcin/SpecifyBR/blob/main/organizacaoInstitucional/museuNacional/echinoderma.md"
+        click c36 href "https://github.com/edalcin/SpecifyBR/blob/main/organizacaoInstitucional/museuNacional/colecoes/echinoderma.md"
         c37(Mollusca)
-        click c37 href "https://github.com/edalcin/SpecifyBR/blob/main/organizacaoInstitucional/museuNacional/mollusca.md"
+        click c37 href "https://github.com/edalcin/SpecifyBR/blob/main/organizacaoInstitucional/museuNacional/colecoes/mollusca.md"
         c38(Polychaeta)
-        click c38 href "https://github.com/edalcin/SpecifyBR/blob/main/organizacaoInstitucional/museuNacional/polychaeta.md"
+        click c38 href "https://github.com/edalcin/SpecifyBR/blob/main/organizacaoInstitucional/museuNacional/colecoes/polychaeta.md"
         c39(Porifera)
-        click c39 href "https://github.com/edalcin/SpecifyBR/blob/main/organizacaoInstitucional/museuNacional/porifera.md"
+        click c39 href "https://github.com/edalcin/SpecifyBR/blob/main/organizacaoInstitucional/museuNacional/colecoes/porifera.md"
         subgraph Aracnologia
         direction LR   
           c23(Aranea)
@@ -64,14 +64,14 @@ flowchart TB
       subgraph Vertebrados
       direction LR   
         c40(Anfíbios)
-        click c40 href "https://github.com/edalcin/SpecifyBR/blob/main/organizacaoInstitucional/museuNacional/anfibios.md"
+        click c40 href "https://github.com/edalcin/SpecifyBR/blob/main/organizacaoInstitucional/museuNacional/colecoes/anfibios.md"
         c41(Ictiologia)
-        click c41 href "https://github.com/edalcin/SpecifyBR/blob/main/organizacaoInstitucional/museuNacional/ictiologia.md"
+        click c41 href "https://github.com/edalcin/SpecifyBR/blob/main/organizacaoInstitucional/museuNacional/colecoes/ictiologia.md"
         c42(Mamíferos)
         c43(Ornitologia)
-        click c43 href "https://github.com/edalcin/SpecifyBR/blob/main/organizacaoInstitucional/museuNacional/ornitologia.md"
+        click c43 href "https://github.com/edalcin/SpecifyBR/blob/main/organizacaoInstitucional/museuNacional/colecoes/ornitologia.md"
         c44(Répteis)
-        click c44 href "https://github.com/edalcin/SpecifyBR/blob/main/organizacaoInstitucional/museuNacional/repteis.md"
+        click c44 href "https://github.com/edalcin/SpecifyBR/blob/main/organizacaoInstitucional/museuNacional/colecoes/repteis.md"
       end
 end
 ```
