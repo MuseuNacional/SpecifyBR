@@ -7,6 +7,8 @@
 * Dia x - de 10:00hs as 12:00hs
 * Dia x - de 10:00hs as 12:00hs
 
+**No. de Vagas:** ?
+
 ### Objetivo:
 
 Apresentar e discutir tópicos atuais e tendência na Gestão de Informação sobre Biodiversidade.
@@ -18,5 +20,9 @@ Apresentar e discutir tópicos atuais e tendência na Gestão de Informação so
 * Qualidade de Dados
 * Dados Abertos e Ciência Aberta
 * Publicação de Dados sobre Biodiversidade
+
+### Público Alvo
+
+* Gerentes e Curadores das Coleções Científicas do Museu Nacional
 
 
