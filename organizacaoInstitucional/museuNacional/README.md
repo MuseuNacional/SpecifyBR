@@ -46,7 +46,7 @@ flowchart TB
         subgraph Aracnologia
         direction LR   
           c23(Aranea)
-          c24(Aranea)
+          c24(Myriapoda)
           c25(Opiliones)
           c26(Ordens Menores)
         end
