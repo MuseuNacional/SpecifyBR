@@ -4,8 +4,8 @@
 
 **Data:**
 
-Dia x - de 10:00hs as 12:00hs
-Dia x - de 10:00hs as 12:00hs
+* Dia x - de 10:00hs as 12:00hs
+* Dia x - de 10:00hs as 12:00hs
 
 ### Objetivo:
 
