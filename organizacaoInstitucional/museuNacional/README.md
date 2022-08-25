@@ -55,7 +55,7 @@ flowchart TB
           c27(Ascidiacea)
           c28(Brachiopoda)
           c29(Bryozoa)
-          c30(Mematoda)
+          c30(Nematoda)
           c31(Nemertea)
           c32(Platyelminthes)
           c33(Tardigrada)
