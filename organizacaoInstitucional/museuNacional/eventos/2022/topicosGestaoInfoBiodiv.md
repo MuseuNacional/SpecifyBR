@@ -23,6 +23,6 @@ Apresentar e discutir tópicos atuais e tendência na Gestão de Informação so
 
 ### Público Alvo
 
-* Gerentes e Curadores das Coleções Científicas do Museu Nacional
+* Gerentes, Técnicos e Curadores das Coleções Científicas do Museu Nacional
 
 
