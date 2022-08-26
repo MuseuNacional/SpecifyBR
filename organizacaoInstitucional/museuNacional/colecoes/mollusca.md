@@ -28,7 +28,5 @@ Filo Mollusca
 ## Contatos:
 
 * **Autor dos Metadados:** Alexandre Dias Pimenta
-* 
 * **Contato sobre o conjunto de dados:** alexpim@mn.ufrj.br
-* 
 * **Autor do Conjunto de Dados:** Alexandre Dias Pimenta
