@@ -15,7 +15,7 @@
 
 * O arquivamento de imagens é fortemente recomendado e visto como uma responsabilidade institucional, regido pela política institucional.
   * Os arquivos de imagem arquivados devem ser mantidos permanentemente em um ambiente seguro e redundante na infraestrutura institucional ou em serviços comerciais de backup.
-* DNG não compactado é o formato de arquivamento preferido.
+* [DNG](https://www.adobe.com/br/creativecloud/file-types/image/raw/dng-file.html) não compactado é o formato de arquivamento preferido.
   * As imagens capturadas no formato RAW da câmera proprietária (por exemplo, CR2, NEF, PEF, etc.) devem ser convertidas para o formato Negativo Digital (DNG).
   * A conversão para DNG pode ser realizada via Adobe DNG Converter, disponível gratuitamente em Adobe.com, ou via Adobe Photoshop ou Adobe Photoshop Lightroom.
 * TIFF compactado sem compressão ou sem perdas, não modificado em 24 bits ou superior é uma alternativa formato de arquivo.
