@@ -1,10 +1,10 @@
-# Crustaceae
+# Crustacea
 
 **Curadores:** Cristiana Serejo, Irene Cardoso
 
 **Gerentes:**
 
----
+**Técnica de Coleções:** Bárbara Cristina da Silva Francisco
 
 ## Descrição:
 
