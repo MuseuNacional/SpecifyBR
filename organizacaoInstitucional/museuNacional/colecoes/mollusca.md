@@ -21,9 +21,9 @@ Mundial
 Filo Mollusca
 
 ## Abrangência Tempo: 
-(espécies recentes)
+1875 - 2022
 
-## Imagens
+## Imagens:
 
 ## Contatos:
 
