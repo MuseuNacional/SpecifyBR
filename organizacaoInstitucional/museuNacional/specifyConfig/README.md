@@ -4,7 +4,7 @@
 
 Idioma das bases: português
 
-Uso de acrônimo: na configuração foi decidido pelo não uso do acrônimo no campo referente ao número de catálogo. Sugere-se a criação de um campo coringa que una o acrônimo ao número, para ter a informação a mão.
+Uso de acrônimo: na configuração foi decidido pelo não uso do acrônimo no campo referente ao número de catálogo. Sugere-se a criação de um campo coringa que una o acrônimo ao número, para ter a informação a mão. Ver discussão em: (https://discourse.specifysoftware.org/t/why-not-to-use-a-prefix-in-your-catalog-number/616)
 
 Número de catálogo auto-incrementado: ficou a cargo de cada coleção configurar esse número para que seja auto-incrementado ou não.
 
