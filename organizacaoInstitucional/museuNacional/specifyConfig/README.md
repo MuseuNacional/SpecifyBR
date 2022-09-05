@@ -10,3 +10,6 @@ Número de catálogo auto-incrementado: ficou a cargo de cada coleção configur
 
 Sugere-se o uso de campos verbatim para determinador e coletor, para que a informação original seja inserida tal como está no livro tombo ou etiqueta.
 
+## Referências
+
+* https://www.specifysoftware.org/specify-6-schema/
