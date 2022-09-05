@@ -2,7 +2,7 @@
 
 **Curadores:** Marcelo Ribeiro de Britto, Paulo Andreas Buckup, Cristiano Moreira
 
-**Gerentes:** Mariane Targino
+**Gerentes:** [Mariane Targino](http://lattes.cnpq.br/0153911919357196)
 
 ---
 
