@@ -1,28 +1,39 @@
-# Seminário "Tópicos em Gestão de Informação sobre Biodiversidade"
+# Tópicos em Gestão de Informação sobre Biodiversidade
 
-**Palestrante:** Dr. Eduardo Dalcin - Instituto de Pesquisas Jardim Botânico do Rio de Janeiro
+## Descrição:
 
-**Data:**
+Série de palestras voltadas para curadores, técnicos e gerentes de coleção do Museu Nacional, abordando os principais temas ligados a gestão de informações sobre biodiversidade. 
 
-* Dia x - de 10:00hs as 12:00hs
-* Dia x - de 10:00hs as 12:00hs
+As apresentações são parte integrante da disciplina "__Gestão de Informação sobre Biodiversidade e Dados de Pesquisa__ (EB11302)" do [Programa de Pós-Graduação Profissional "Biodiversidade em Unidades de Conservação"](https://w2.solucaoatrio.net.br/somos/jbrj-mpenbt/index.php/pt/linhas-de-pesquisa), da [Escola Nacional de Botânica Tropical/JBRJ](https://www.gov.br/jbrj/pt-br/assuntos/educacao/escola-nacional-de-botanica-tropical).
 
-**No. de Vagas:** ?
+## Formato: 
 
-### Objetivo:
+* Presencial
 
-Apresentar e discutir tópicos atuais e tendência na Gestão de Informação sobre Biodiversidade.
+## Local:
 
-### Tópicos Abordados
+* Museu Nacional<br>Prédio XXX<br>Sala XXX<br>
 
-* A Informática na Biodiversidade
-* Conceitos de Gestão de Dados de Pesquisa
-* Qualidade de Dados
-* Dados Abertos e Ciência Aberta
-* Publicação de Dados sobre Biodiversidade
+---
 
-### Público Alvo
+### __1º Dia - XXX (XX)__
 
-* Gerentes, Técnicos e Curadores das Coleções Científicas do Museu Nacional
+| Horário | Atividade | Descrição |
+|---|---|---|
+| 08:30hs - 09:00hs | Apresentações e alinhamentos  | Apresentação da audiência e das suas expectativas |
+| 09:00hs - 09:55hs | __Apresentaçã 01__: _Informática na Biodiversidade: onde estamos, como chegamos aqui e para onde vamos_ | Apresentar o surgimento e evolução da Informática na Biodiversidade fazendo referência aos marcos e referências mais importantes. |
+| 10:05hs - 10:55hs | __Apresentação 02__: _Padrões de Dados e Metadados_ | Abordar os principais padrões de dados e metadados para Biodiversidade |
+| 11:05hs - 12:00hs | __Apresentação 03__: _Qualidade de Dados_ | Abordar aspectos de qualidade de dados, principais problemas e estratégias de ação |
 
 
+### __2º Dia - XXX (XX)__
+
+| Horário | Atividade | Descrição |
+|---|---|---|
+| 08:30hs - 09:00hs | Avaliação do primeiro dia | Avaliação da audiência sobre o primeiro dia de apresetações | 
+| 09:00hs - 09:55hs | __Apresentação 04__:  _Dados Abertos e Ciência Aberta_ | Abordar os princípios FAIR e iniciativas no Brasil. |
+| 10:05hs - 10:55hs | __Apresentação 05__: _Publicação de Dados_ | Apresentar o estudo de caso da Diretoria de Pesquisas do Instituto de Pesquisas Jardim Botânico do Rio de Janeiro na publicação dos seus dados de pesquisa e coleções |
+| 11:05hs - 12:00hs | __Apresentação 06__:  _Gestão de Informação sobre Biodiversidade - Estratégias e Desafios_ | Onde estamos na gestão de dados sobre biodiversidade e seus principas desafios |
+| 12:05hs - 12:30hs | __Apresentação 07__:  _Gestão de Informação sobre Biodiversidade no Museu Nacional - Estratégias e Desafios_ | Discussão sobre os desafios do Museu Nacional na gestão de dados e informações sobre as suas coleções científicas |
+
+---
