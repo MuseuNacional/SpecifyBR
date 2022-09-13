@@ -67,7 +67,7 @@ flowchart TB
         click c40 href "https://github.com/edalcin/SpecifyBR/blob/main/organizacaoInstitucional/museuNacional/colecoes/anfibios.md"
         c41(Ictiologia)
         click c41 href "https://github.com/edalcin/SpecifyBR/blob/main/organizacaoInstitucional/museuNacional/colecoes/ictiologia.md"
-        c42(Mamíferos)
+        c42(Mastozoologia)
         c43(Ornitologia)
         click c43 href "https://github.com/edalcin/SpecifyBR/blob/main/organizacaoInstitucional/museuNacional/colecoes/ornitologia.md"
         c44(Répteis)
