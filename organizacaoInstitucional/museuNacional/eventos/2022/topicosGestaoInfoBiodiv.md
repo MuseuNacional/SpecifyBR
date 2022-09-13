@@ -12,7 +12,7 @@ As apresentações são parte integrante da disciplina "__Gestão de Informaçã
 
 ## Local:
 
-* Museu Nacional<br>Prédio XXX<br>Sala XXX<br>
+* Museu Nacional<br>Prédio a definir<br>Sala a definir<br>
 
 ---
 
