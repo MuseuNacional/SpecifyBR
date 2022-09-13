@@ -1,4 +1,4 @@
-# Mamíferos
+# Mastozoologia
 
 **Curadores:** João A. de Oliveira, Luiz Flamarion B. de Oliveira, Marcelo Weksler, Leandro de O. Salles
 
