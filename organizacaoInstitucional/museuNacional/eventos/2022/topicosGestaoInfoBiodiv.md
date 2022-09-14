@@ -1,4 +1,8 @@
 # Tópicos em Gestão de Informação sobre Biodiversidade
+**Eduardo Dalcin, Ph.D.**
+* [Lattes](http://lattes.cnpq.br/8334174268306003)
+* [ORCID](https://orcid.org/0000-0002-4661-0272)
+* [Blog](https://eduardo.dalc.in/)
 
 ## Descrição:
 
