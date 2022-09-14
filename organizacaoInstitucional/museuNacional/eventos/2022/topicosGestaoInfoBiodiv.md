@@ -40,6 +40,6 @@ As apresentações são parte integrante da disciplina "__Gestão de Informaçã
 | 12:00hs - 13:30hs | __Almoço__
 | 13:30hs - 14:25hs | __Apresentação 05__: _Publicação de Dados_ | Apresentar o estudo de caso da Diretoria de Pesquisas do Instituto de Pesquisas Jardim Botânico do Rio de Janeiro na publicação dos seus dados de pesquisa e coleções |
 | 14:35hs - 15:25hs | __Apresentação 06__:  _Gestão de Informação sobre Biodiversidade - Estratégias e Desafios_ | Onde estamos na gestão de dados sobre biodiversidade e seus principas desafios |
-| 15:35hs - 16:30hs | __Apresentação 07__:  _Gestão de Informação sobre Biodiversidade no Museu Nacional - Estratégias e Desafios_ | Discussão sobre os desafios do Museu Nacional na gestão de dados e informações sobre as suas coleções científicas |
+| 15:35hs - 16:30hs | __Discussão__:  _Gestão de Informação sobre Biodiversidade no Museu Nacional - Estratégias e Desafios_ | Discussão sobre os desafios do Museu Nacional na gestão de dados e informações sobre as suas coleções científicas |
 
 ---
