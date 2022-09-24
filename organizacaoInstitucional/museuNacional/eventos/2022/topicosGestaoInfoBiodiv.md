@@ -18,7 +18,9 @@ As apresentações são parte integrante da disciplina "__Gestão de Informaçã
 
 * Museu Nacional<br>Centro de Visitantes
 
-## [Arquivo ZIP com as apresentações](https://dalc.in/repositorio/apresentacoes/seminarioMuseuNacional2022.zip)
+---
+
+### [Arquivo ZIP com as apresentações](https://dalc.in/repositorio/apresentacoes/seminarioMuseuNacional2022.zip)
 
 ---
 
