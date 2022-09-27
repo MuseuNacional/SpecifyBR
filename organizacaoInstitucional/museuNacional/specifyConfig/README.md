@@ -13,4 +13,4 @@ Sugere-se o uso de campos verbatim para determinador e coletor, para que a infor
 
 ## Referências
 
-* https://www.specifysoftware.org/specify-6-schema/
+* https://www.specifysoftware.org/wp-content/uploads/2017/03/Field-Formatting-and-Auto-Numbering.pdf
