@@ -1,9 +1,8 @@
 # SpecifyBR
 Boas práticas para o uso do [Specify](https://github.com/specify) na organização das informações das coleções zoológicas brasileiras e de língua portuguesa
 
-Instalação do MySQL: downloads.mysql.com/archives/installer/ (não pode ser a versão 8)
-
 ## Instalação
+Instalação do MySQL: downloads.mysql.com/archives/installer/ (não pode ser a versão 8)
 
 ## Configuração
 
